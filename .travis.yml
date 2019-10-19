@@ -18,4 +18,4 @@ before_install:
 
 script:
 
-- pytest --cov=com.kuma com/kuma/test/
+- pytest --cov=com.faculdadeimpacta.calculadora com/faculdadeimpacta/calculadora/test/
